@@ -10,7 +10,7 @@ class CreditsPage extends StatelessWidget {
       body: ListView(
         children: [
           ListTile(
-            title: Text("Joel"),
+            title: Text("Joels"),
             onTap: () {
               launchURL("https://www.portal-disney.com/");
             },
